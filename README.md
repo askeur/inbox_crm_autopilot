@@ -7,6 +7,17 @@
 
 ---
 
+<p align="center">
+  <img src="Home.png" alt="inbox_crm_autopilot" width="600"/>
+</p>
+
+**Auteur :** Nabila ASKEUR  
+**Stack :** FastAPI+ Uvicorn · SMTP natif Python  · APScheduler · Groq (Llama 3.3)  . PostgreSQL 16   .Streamlit · Docker 
+
+Code source : inbox-crm-autopilot
+Projet disponible sur demande
+(Contact : askeurnabila@gmail.com)
+
 ## Structure du projet
 
 ```
