@@ -8,7 +8,7 @@
 ---
 
 <p align="left">
-  <img src="Accueil.png" alt="inbox_crm_autopilot" width="600"/>
+  <img src="Accueil.png" alt="inbox_crm_autopilot" width="3000"/>
 </p>
 
 **Auteur :** Nabila ASKEUR  
@@ -103,17 +103,12 @@ Docker démarre les services dans le bon ordre :
 
 ### Documentation API (FastAPI / Swagger)
 <p align="left">
-  <img src="Api.png" alt="API Swagger" width="600"/>
+  <img src="Api.png" alt="API Swagger" width="3000"/>
 </p>
 
 
 
 ## Architecture du pipeline
-
-### Accueil — Pipeline IA à 5 agents
-<p align="left">
-  <img src="Pipeline_Traitement.png" alt="Accueil et pipeline" width="600"/>
-</p>
 
 ```
 Email entrant (API /process ou webhook Mailgun)
@@ -161,36 +156,36 @@ Email entrant (API /process ou webhook Mailgun)
 
 ---
 
-## Captures d'écran
-
 ### Agent routeur + Agent prospect — Traitement d'un email
 <p align="left">
-  <img src="Accueil.png" alt="Traitement email" width="600"/>
+  <img src="Pipeline_Traitement.png" alt="Traitement email" width="3000"/>
 </p>
 
 ### Agent CRM — Contacts
 <p align="left">
-  <img src="Contacts.png" alt="Liste des contacts CRM" width="600"/>
-</p>
-
-### Agent réponse — Email reçu par le prospect
-<p align="left">
-  <img src="EmailReçu.png" alt="Email reçu" width="600"/>
+  <img src="Contacts.png" alt="Liste des contacts CRM" width="3000"/>
 </p>
 
 ### Agent suivi + Scheduler — Relances en attente
 <p align="left">
-  <img src="Relances.png" alt="Relances en attente" width="600"/>
+  <img src="Relances.png" alt="Relances en attente" width="3000"/>
 </p>
 
 ### Agent suivi + Scheduler — Relances envoyées
 <p align="left">
-  <img src="Envois.png" alt="Relances envoyées" width="600"/>
+  <img src="Envois.png" alt="Relances envoyées" width="3000"/>
 </p>
+
+
+### Agent réponse — Email reçu par le prospect
+<p align="left">
+  <img src="EmailReçu.png" alt="Email reçu" width="3000"/>
+</p>
+
 
 ### Statistiques du pipeline
 <p align="left">
-  <img src="Stats.png" alt="Statistiques" width="600"/>
+  <img src="Stats.png" alt="Statistiques" width="3000"/>
 </p>
 
 
