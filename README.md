@@ -12,11 +12,9 @@
 </p>
 
 **Auteur :** Nabila ASKEUR  
-**Stack :** FastAPI+ Uvicorn · SMTP natif Python  · APScheduler · Groq (Llama 3.3)  . PostgreSQL 16   .Streamlit · Docker 
+**Stack :** FastAPI+ Uvicorn · SMTP natif Python  · APScheduler · Groq (Llama 3.3)  . PostgreSQL 16   .Streamlit · Docker
 
-Code source : inbox-crm-autopilot
-Projet disponible sur demande
-(Contact : askeurnabila@gmail.com)
+**Code source : inbox-crm-autopilot**  est disponible sur demande (Contact : askeurnabila@gmail.com))
 
 ## Structure du projet
 
@@ -220,3 +218,7 @@ Email entrant (API /process ou webhook Mailgun)
 | `SMTP_PASSWORD` | App Password (sans espaces) | `abcdefghijklmnop` |
 | `SMTP_FROM_NAME` | Nom affiché à l'envoi | `Équipe Commerciale` |
 | `MAILGUN_WEBHOOK_KEY` | Clé de signature Mailgun (optionnel) | `key-...` |
+
+## Licence
+
+MIT © Nabila ASKEUR
